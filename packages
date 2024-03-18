@@ -1,137 +1,164 @@
-adapta-gtk-theme
-adwaita-qt5-git
-adwaita-qt6-git
-alacarte
-amd-ucode
-amule
-android-file-transfer
-ansible
-autofirma
-base
-base-devel
-bleachbit
-blueman
-bluez-utils
-breeze5
-calibre
-cheese
-chrome-remote-desktop
-chrony
-cifs-utils
-colloid-cursors-git
-colloid-icon-theme-git
-debtap
-dhcpcd
-docker
-downgrade
-efibootmgr
-eog
-epsxe
-evince
-exfat-utils
-file-roller
-firefox-i18n-es-es
-flat-remix
-flat-remix-gtk
-freerdp
-geckodriver
-gimp
-gnome-calculator
-gnome-disk-utility
-gnome-mahjongg
-gnome-sudoku
-gnome-system-monitor
-grub-customizer
-gst-plugin-pipewire
-gst-plugins-ugly
-iotop
-jdownloader2
-kdenlive
-keepassxc
-kid3-qt
-kind-bin
-kubectl
-layan-gtk-theme-git
-libpkcs11-dnie
-libreoffice-fresh-es
-liferea
-lightdm-gtk-greeter-settings
-linux
-linux-firmware
-linux-headers
-linux-lts
-linux-lts-headers
-man-db
-materia-gtk-theme
-menulibre
-mgba-qt
-microsoft-edge-stable-bin
-minecraft-launcher
-minikube
-mlocate
-msedgedriver-stable-bin
-mugshot
-nano
-network-manager-applet
-nfs-utils
-noto-fonts-emoji
-ntfs-3g
-numlockx
-octave
-okular
-onboard
-openconnect
-orchis-theme
-pamac-aur
-paper-icon-theme
-parallel-launcher
-paru-bin
-pavucontrol
-pidgin
-pipewire-alsa
-pipewire-pulse
-pokerth
-pulse-secure
-python-virtualenv
-qt5ct
-qt6ct
-rclone
-rdesktop
-remmina
-rhythmbox
-sassc
-screenfetch
-simplescreenrecorder-bin
-snes9x-gtk
-sublime-text-4
-teams-for-linux-bin
-teamviewer
-tela-circle-icon-theme-all
-terminator
-thunar-archive-plugin
-thunar-volman
-thunderbird-i18n-es-es
-transmission-gtk
-ttf-segoe-ui-variable
-ttf-ubuntu-font-family
-tumbler
-unrar
-vagrant
-vim
-vimix-gtk-themes
-vimix-icon-theme
-virtualbox
-visual-studio-code-bin
-xdg-user-dirs-gtk
-xfce4-appfinder
-xfce4-clipman-plugin
-xfce4-power-manager
-xfce4-pulseaudio-plugin
-xfce4-screensaver
-xfce4-screenshooter
-xfce4-session
-xfce4-settings
-xfce4-terminal
-xfdesktop
-xfwm4-themes
-zram-generator
+adapta-gtk-theme 3.95.0.11-2
+adwaita-qt5-git 1.4.1.r29.g0a77436-1
+adwaita-qt6-git 1.4.1.r29.g0a77436-1
+alacarte 1:3.50.0-1
+amd-ucode 20240312.3b128b60-1
+amule 1:2.3.3-7
+android-file-transfer 4.2-3
+ansible 9.3.0-1
+autofirma 1.8.2-1
+base 3-2
+base-devel 1-1
+bleachbit 4.6.0-1
+blueman 2.3.5-3
+bluez 5.73-4
+bluez-utils 5.73-4
+breeze5 6.0.2-3
+ca-certificates 20220905-1
+ca-certificates-mozilla 3.99-1
+calibre 7.7.0-1
+ccid 1.5.5-1
+cheese 44.1-2
+chrome-remote-desktop 118.0.5993.9-1
+chrony 4.5-1
+cifs-utils 7.0-3
+colloid-cursors-git 2024.02.28.r0.gcb6ca1c-1
+colloid-icon-theme-git 2024.02.28.r0.gcb6ca1c-1
+debtap 3.5.1-1
+dhcpcd 10.0.6-1
+docker 1:25.0.4-1
+downgrade 11.3.0-1
+efibootmgr 18-3
+eog 45.3-1
+epsxe 2.0.5-31
+evince 45.0-1
+exfat-utils 1.4.0-2
+exo 4.18.0-1
+file-roller 43.1-1
+firefox 123.0.1-1
+firefox-i18n-es-es 123.0.1-1
+flat-remix 20240201-1
+flat-remix-gtk 20220627-1
+freerdp 2:2.11.4-1
+geckodriver 0.34.0-1
+gimp 2.10.36-5
+git 2.44.0-1
+gnome-calculator 45.0.2-1
+gnome-disk-utility 46.0-1
+gnome-mahjongg 3.40.0+r35+g96668c5-1
+gnome-sudoku 45.5-1
+gnome-system-monitor 45.0.2-1
+google-chrome 122.0.6261.128-1
+grub 2:2.12-2
+grub-customizer 5.2.4-1
+gst-plugin-pipewire 1:1.0.4-1
+gst-plugins-ugly 1.24.0-1
+iotop 0.6-10
+java-openjdk-bin 21.0.2.u13-1
+jdownloader2 latest-19
+jre17-openjdk 17.0.10.u7-1
+kdenlive 24.02.0-2
+keepassxc 2.7.7-1
+kid3-qt 3.9.5-3
+kind-bin 0.22.0-1
+kubectl 1.29.3-1
+layan-gtk-theme-git 2023052317g48fc199-1
+less 1:643-1
+libpkcs11-dnie 1.6.8-1
+libpulse 17.0-3
+libreoffice-fresh 24.2.1-4
+libreoffice-fresh-es 24.2.1-1
+liferea 1.14.6-1
+lightdm-gtk-greeter 1:2.0.9-1
+lightdm-gtk-greeter-settings 1.2.3-1
+linux 6.8.1.arch1-1
+linux-firmware 20240312.3b128b60-1
+linux-headers 6.8.1.arch1-1
+linux-lts 6.6.22-1
+linux-lts-headers 6.6.22-1
+man-db 2.12.0-1
+materia-gtk-theme 20210322-2
+menulibre 1:2.4.0-1
+mgba-qt 0.10.3-1
+minecraft-launcher 1:1.0.1221-1
+minikube 1.32.0-1
+mlocate 0.26.git.20170220-7
+msedgedriver-stable-bin 121.0.2277.128-1
+mugshot 0.4.3-3
+nano 7.2-1
+network-manager-applet 1.36.0-1
+networkmanager 1.46.0-2
+nfs-utils 2.6.4-1
+nm-connection-editor 1.36.0-1
+noto-fonts-emoji 1:2.042-1
+ntfs-3g 2022.10.3-1
+numlockx 1.2-5
+octave 8.4.0-3
+okular 24.02.0-2
+onboard 1.4.1-8
+openconnect 1:9.12-1
+orchis-theme 2023_10_20-1
+p7zip 1:17.05-2
+pamac-aur 11.7.1-3
+paper-icon-theme 1.5.0-3
+parallel-launcher 7.3.0-0
+paru-bin 2.0.3-3
+paru-bin-debug 2.0.3-3
+pavucontrol 1:5.0+r64+geba9ca6-1
+pcsc-tools 1.7.1-1
+pidgin 2.14.13-1
+pipewire 1:1.0.4-1
+pipewire-alsa 1:1.0.4-1
+pipewire-jack 1:1.0.4-1
+pipewire-pulse 1:1.0.4-1
+pokerth 1.1.2-36
+python-virtualenv 20.25.0-1
+qt5ct 1.8-1
+qt6ct 0.9-5
+rclone 1.66.0-1
+rdesktop 1.9.0-2
+remmina 1:1.4.35-1
+rhythmbox 3.4.7-1
+sassc 3.6.2-4
+screenfetch 3.9.1-3
+simplescreenrecorder-bin 0.4.4-1
+snes9x-gtk 1.62.3-1
+sublime-text-4 4.4169-1
+teamviewer 15.51.5-1
+tela-circle-icon-theme-all 2023.10.07-1
+terminator 2.1.3-3
+thunar 4.18.10-1
+thunar-archive-plugin 0.5.2-1
+thunar-volman 4.18.0-1
+thunderbird 115.8.1-1
+thunderbird-i18n-es-es 115.8.1-1
+transmission-gtk 4.0.5-1
+ttf-segoe-ui-variable 1.0-1
+ttf-ubuntu-font-family 1:0.83-1
+tumbler 4.18.2-1
+unrar 1:7.0.7-1
+usbimager-bin 1.0.10-4
+vagrant 2.4.1-1
+vim 9.1.0151-2
+vimix-gtk-themes 2023.09.09-1
+vimix-icon-theme 2023.06.26-1
+virtualbox 7.0.14-2
+virtualbox-host-dkms 7.0.14-2
+visual-studio-code-bin 1.87.2-1
+vlc 3.0.20-7
+wireplumber 0.4.17-1
+xdg-user-dirs-gtk 0.11-2
+xfce4-clipman-plugin 1.6.6-1
+xfce4-panel 4.18.6-1
+xfce4-power-manager 4.18.3-1
+xfce4-pulseaudio-plugin 0.4.8-1
+xfce4-screensaver 4.18.3-1
+xfce4-screenshooter 1.10.5-1
+xfce4-session 4.18.3-1
+xfce4-settings 4.18.4-1
+xfce4-terminal 1.1.3-1
+xfconf 4.18.3-1
+xfdesktop 4.18.1-1
+xfwm4 4.18.0-2
+xfwm4-themes 4.10.0-5
+zram-generator 1.1.2-1
